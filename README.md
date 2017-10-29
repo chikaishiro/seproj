@@ -19,7 +19,7 @@ The former deposits the version that is released. Whenever you get a version fro
 Meanwhile, the latter is used for normal development, depositting the latest testing version.  
 Secondly, there are three short-term branches.  
 ```
-· featruen branch  
+· feature branch  
 · hotfix branch  
 · release branch
 ```
